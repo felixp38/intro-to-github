@@ -1,9 +1,9 @@
 # intro-to-github
 Make changes to this README file and commit :)
 
-- Name:
-- Grade Level:
-- Favorite Color:
-- Favorite Animal: 
-- Hobbies:
-- Thoughts on FRC:
+- Name: Felix Phan
+- Grade Level: 11
+- Favorite Color: Black
+- Favorite Animal: Pandas
+- Hobbies: Video Games
+- Thoughts on FRC: Very cool. 
